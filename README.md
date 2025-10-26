@@ -5,6 +5,6 @@ This repo account for
 
 -> ADC, I2C, SPI, UART, FREERTOS
 
-please copy and paste just sharing for understand something about code style 
+please never copy and paste codes that Im sharing for just understand something about code style 
 
 best wishes.
