@@ -4,8 +4,7 @@ This repository showcases **real embedded engineering** — not just code, but *
 It’s about how to structure systems, handle concurrency, and manage communication between independent processes.  
 
 We’re living in the **AI age**, and writing code is no longer the challenge — building **robust, maintainable, and scalable systems** is.  
-This project represents that philosophy through the development of a **FreeRTOS-based telemetry and control system**, 
-inspired by **CANSAT role scenarios** — where real-time sensor acquisition, communication, and control come together in a unified embedded platform.
+This project represents that philosophy through the development of a **FreeRTOS-based telemetry and control system**, inspired by **CANSAT role scenarios** — where real-time sensor acquisition, communication, and control come together in a unified embedded platform.
 
 All shared code is for **educational and reference purposes** only.  
 Please do not copy or reuse without understanding the context.
