@@ -1,6 +1,8 @@
 # Cansat-Role-Senario-Freertos-CMSIS-V2
 
-This repository showcases **real embedded engineering** — not just code, but **architecture, design hierarchy, and process discipline**.  
+
+
+This repository (merge previous rocket avionics repository and cards) showcases **real embedded engineering** — not just code, but **architecture, design hierarchy, and process discipline**.  
 It’s about how to structure systems, handle concurrency, and manage communication between independent processes.  
 
 We’re living in the **AI age**, and writing code is no longer the challenge — building **robust, maintainable, and scalable systems**.  
