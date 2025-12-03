@@ -1,0 +1,4 @@
+../Core/Library/Servo/servo.c:17:17:AngleToCCR	16	static
+../Core/Library/Servo/servo.c:23:6:ServoInit	8	static
+../Core/Library/Servo/servo.c:33:6:Servo1SetAngle	16	static
+../Core/Library/Servo/servo.c:41:6:Servo2SetAngle	16	static

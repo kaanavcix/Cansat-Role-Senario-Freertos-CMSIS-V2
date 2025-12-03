@@ -1,0 +1,9 @@
+../Core/Library/Communication/telemetry_packet.c:8:10:calculate_crc16	24	static
+../Core/Library/Communication/telemetry_packet.c:28:7:constrain	24	static
+../Core/Library/Communication/telemetry_packet.c:35:9:convert_gps_coordinate	16	static
+../Core/Library/Communication/telemetry_packet.c:41:6:pack_error_code	24	static
+../Core/Library/Communication/telemetry_packet.c:56:6:pack_rhrh	24	static
+../Core/Library/Communication/telemetry_packet.c:71:6:CreateBinaryTelemetryPacket	24	static
+../Core/Library/Communication/telemetry_packet.c:140:6:CreateShortTimeString	40	static
+../Core/Library/Communication/telemetry_packet.c:152:9:UpdateOptimizedSatelliteStatus	24	static
+../Core/Library/Communication/telemetry_packet.c:195:6:UpdateOptimizedErrorCode	24	static

@@ -1,0 +1,4 @@
+../Core/Library/Communication/lora_e22.c:14:9:Lora_Init	3
+../Core/Library/Communication/lora_e22.c:52:9:Lora_Filling	1
+../Core/Library/Communication/lora_e22.c:65:9:Lora_Transmiter	1
+../Core/Library/Communication/lora_e22.c:73:9:Lora_Reciever	1

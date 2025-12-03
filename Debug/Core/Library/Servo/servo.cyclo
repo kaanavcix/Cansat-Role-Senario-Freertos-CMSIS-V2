@@ -1,0 +1,4 @@
+../Core/Library/Servo/servo.c:17:17:AngleToCCR	2
+../Core/Library/Servo/servo.c:23:6:ServoInit	1
+../Core/Library/Servo/servo.c:33:6:Servo1SetAngle	1
+../Core/Library/Servo/servo.c:41:6:Servo2SetAngle	1

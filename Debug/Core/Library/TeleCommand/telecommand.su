@@ -1,0 +1,10 @@
+../Core/Library/TeleCommand/telecommand.c:39:6:Telecommand_Init	16	static
+../Core/Library/TeleCommand/telecommand.c:50:6:Telecommand_SetMotorPins	24	static
+../Core/Library/TeleCommand/telecommand.c:65:6:Telecommand_StepMotor	40	static
+../Core/Library/TeleCommand/telecommand.c:105:10:Telecommand_CalculateStepsToPosition	24	static
+../Core/Library/TeleCommand/telecommand.c:123:6:Telecommand_MoveToPosition	40	static
+../Core/Library/TeleCommand/telecommand.c:141:6:Telecommand_MoveBothMotors	32	static
+../Core/Library/TeleCommand/telecommand.c:171:6:Telecommand_ResetMotorStates	4	static
+../Core/Library/TeleCommand/telecommand.c:180:6:Telecommand_ReturnHome	8	static
+../Core/Library/TeleCommand/telecommand.c:185:18:Telecommand_GetFilterPosition	24	static
+../Core/Library/TeleCommand/telecommand.c:244:6:Telecommand_Execute	32	static
